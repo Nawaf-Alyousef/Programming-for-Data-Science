@@ -4,7 +4,7 @@
 
 ## Project Lists:
 - Project 1: INVESTIGATE A DATABASE
->>  In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
+   >  In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
 
 - Project 1: INVESTIGATE A DATABASE
 > In this project, investigated a relational database while working with PostgreSQL. Completed the entire data analysis process, starting by posing a question, running appropriate SQL queries to answer the questions, and finished by sharing the findings.
